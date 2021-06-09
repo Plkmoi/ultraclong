@@ -3,7 +3,7 @@ The Ultimate Conlang Software.
 
 One set of types reflects the basic order of subject, verb, and direct object in sentences:
 
-Object–subject–verb (OSV)/n
+Object–subject–verb (OSV)<br>
 Object–verb–subject (OVS)
 Subject–verb–object (SVO)
 Subject–object–verb (SOV)
